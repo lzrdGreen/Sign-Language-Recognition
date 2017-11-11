@@ -1,3 +1,7 @@
+Below is the description of the prohject presented in this repo. Details are here:
+https://github.com/udacity/AIND-Recognizer
+
+
 # Artificial Intelligence Engineer Nanodegree
 ## Probabilistic Models
 ## Project: Sign Language Recognition System
